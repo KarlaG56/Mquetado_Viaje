@@ -1,4 +1,4 @@
-import '../assets/styles/Header.css'
+import '../assets/styles/header.css'
 
 function Header(){
     return(
