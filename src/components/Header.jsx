@@ -12,7 +12,9 @@ function Header(){
                 <a ><img src="/img/Hotel.png" id='Lugar' /> Reservacion</a>
                 <p ><img/> | Iniciar sesion</p>
                 <br></br>
-            </nav>       
+            </nav> 
+
+            <p> oRIGIGAN</p>      
         </header>
 
     );
