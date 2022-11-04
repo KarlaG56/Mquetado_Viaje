@@ -1,0 +1,23 @@
+.Footer{
+    background-color: rgb(37, 182, 255);
+}
+
+.row{
+    margin-left: 55px;
+    color: rgb(255, 255, 255);
+}
+
+
+.copyright{
+    margin-left: 0px;
+    margin-right: 0px;
+    background-color: rgb(69, 190, 255);
+    margin-top: 15px;
+    text-align: center;
+    color: #fff;
+}
+
+#redes{
+    width: 130px;
+    height: 80px;
+}

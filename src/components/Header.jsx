@@ -10,7 +10,7 @@ function Header(){
                 <a ><img src="/img/barco.png" id='Lugar' /> Cruceros</a>
                 <a ><img src="/img/auto.png" id='Lugar' /> Autos</a>
                 <a ><img src="/img/Hotel.png" id='Lugar' /> Reservacion</a>
-                <p ><img/> | Iniciar sesUion</p>
+                <a ><img/> | Iniciar sesion</a>
                 <br></br>
             </nav> 
 

@@ -4,6 +4,7 @@ import Ofertas from "../Ofertas";
 import Vuelos from "../Vuelos";
 import Tours from "../Tours";
 import Comments from "../Comentarios";
+import Footer from "../Footer";
 
 function Maquetado() {
     return (
@@ -14,6 +15,7 @@ function Maquetado() {
         <Vuelos/>
         <Tours/>
         <Comments/>
+        <Footer />
         </>
     );
 }
